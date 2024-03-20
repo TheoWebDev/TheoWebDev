@@ -1,9 +1,9 @@
-<h1 align="center">Hello ! I'm Théo and I'am Software Developer</h1>
+<h1 align="center">Hello ! I'm Théo and I'm Software Developer</h1>
 <h3 align="center">A passionate Software Developer from France</h3>
 
-- 🔭 I’m currently working on **my photographies website**
+- 🔭 I’m currently working on **my photography website**
 
-- 🌱 I’m currently learning **JAVA and React**
+- 🌱 I’m currently learning **.NET and React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
