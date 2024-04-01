@@ -1,15 +1,16 @@
 Hello ! I'm Théo
 ========================================================================================================================================
 
-A passionare Software Developer from France.
+A passionate Software Developer from France.
 <br/>
-- I’m currently working on **my photography website**
 
-- I’m currently learning **.NET and React**
+- I’m currently learning **.NET**
+  
+- I’m currently working on **my photography website**
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,express)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,angular)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=git,postman,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,react,angular,mysql,mongodb,postgres,git,postman,docker)](https://skillicons.dev)
 <br/>
 
 ### Socials
