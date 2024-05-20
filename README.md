@@ -4,7 +4,7 @@ Hello ! I'm Théo
 A passionate Software Developer from France.
 <br/>
 
-- I’m currently learning **.NET**
+- I’m currently learning **JAVA / Spring Boot**
   
 - I’m currently working on **my photography website**
 
