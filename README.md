@@ -10,7 +10,7 @@ A passionate Software Developer from France.
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,react,angular,mysql,mongodb,postgres,git,postman,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,angular,react,nodejs,express,nestjs,jest,mysql,mongodb,postgres,git,gitlab,postman,docker,idea)](https://skillicons.dev)
 <br/>
 
 ### Socials
